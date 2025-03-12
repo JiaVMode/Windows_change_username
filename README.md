@@ -1,4 +1,5 @@
 # Win11修改用户名（注册表法）
+help user change the username which was set in Chinese
 
 # 一、创建一个新的账户，并给予管理员权限
 ![image](https://github.com/user-attachments/assets/016f2608-30f2-4525-8716-76dd50250f8b)
@@ -47,4 +48,4 @@ Win+R输入regedit打开注册表\
 # 附：有些只修改了一部分注册表导致以下情况的
 ![image](https://github.com/user-attachments/assets/fc27c6dd-73e1-4a29-bd32-19650ab55528)\
 打开注册表所在位置，你会发现第四步用户SID下会有两个相同名称但后缀不一样的文件。把两个文件中的修改位置的名字改回原来的位置，然后注销重新登录。即可恢复，再重新按上面步骤修改即可。
-help user change the username which was set in Chinese
+
