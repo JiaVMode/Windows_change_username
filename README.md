@@ -15,7 +15,7 @@ help user change the username which was set in Chinese
 Win+R输入regedit打开注册表\
 ![image](https://github.com/user-attachments/assets/c3555abe-8ec8-42e3-984d-63f578ab7447)\
 定位到这个文件夹下：\
-计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion
+计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion
 找到RegisteredOwner\
 ![image](https://github.com/user-attachments/assets/7cace9cd-4003-4f22-9b78-75fbf1ccf3d0)\
 
